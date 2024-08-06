@@ -5,7 +5,7 @@ Project Description:
 This project is a REST API that simulates the basic functionalities of YouTube. It provides endpoints for creating, updating, deleting, and retrieving video information. 
 
 
-Features:
+# Features:
 
 Create Video: Add new video entries with basic details.
 
@@ -16,7 +16,7 @@ Update Video: Modify existing video details.
 Delete Video: Remove video entries.
 
 
-Technologies Used:
+# Technologies Used:
 
 The ToDo API is built using the following technologies:
 
